@@ -32,14 +32,14 @@ public sealed partial class StationToStationPage : Page
     private void OpenStationSelector_FromStation_Click(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
     {
         PageFrame.Content = FromStationSelector;
-        ViewModel.ContentText = "选择始发车站（点击车站行里面的“查看详情”按钮即可选择）";
+        ViewModel.ContentText = "选择始发车站";
         ViewModel.SelectTeachingTipIsOpen = true;
     }
 
     private void OpenStationSelector_ToStation_Click(object sender, Microsoft.UI.Xaml.RoutedEventArgs e)
     {
         PageFrame.Content = ToStationSelector;
-        ViewModel.ContentText = "选择终到车站（点击车站行里面的“查看详情”按钮即可选择）";
+        ViewModel.ContentText = "选择终到车站in";
         ViewModel.SelectTeachingTipIsOpen = true;
     }
 

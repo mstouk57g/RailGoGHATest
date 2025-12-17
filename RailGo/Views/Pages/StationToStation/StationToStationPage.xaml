@@ -59,8 +59,8 @@
                     BorderThickness="1">
                     <StackPanel Orientation="Vertical">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock Text="{x:Bind ViewModel.ContentText, Mode=OneWay}" FontSize="16" HorizontalAlignment="Left"/>
-                            <Button HorizontalAlignment="Right" Click="CloseStationChooseButton_Click">
+                            <TextBlock Text="{x:Bind ViewModel.ContentText, Mode=OneWay}" FontSize="16" HorizontalAlignment="Left" Margin="3" VerticalAlignment="Center"/>
+                            <Button HorizontalAlignment="Right" Click="CloseStationChooseButton_Click" Margin="3" VerticalAlignment="Center">
                                 <FontIcon Glyph="&#xE711;" />
                             </Button>
                         </StackPanel>
