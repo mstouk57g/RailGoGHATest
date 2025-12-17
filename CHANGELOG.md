@@ -1,14 +1,8 @@
-## Windows版本0.0.7.0_Beta更新内容：
+## Windows版本0.0.8.0_Beta更新内容：
 
-_2025年11月月度功能更新_
+_2025年12月月度功能更新_
 
 ### ✨Feature
 
-- 数据库离线查询支持（@mstouk57g）
-- 添加主页（#12 @mstouk57g, @zlk-sys）
-- 对设置页面进行稍微修改（@mstouk57g）
-- 添加全局错误Handler（@mstouk57g）
-
-### 💻Devloping
-
-- 重构项目的Models、ViewModels、Views和查询方法的结构
+- 添加站站查询支持
+- 添加车次查询中的正晚点信息展示
