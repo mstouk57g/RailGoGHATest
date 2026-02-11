@@ -23,5 +23,6 @@ _2026年新年特别更新_
 > 由于WinUI版本开发者@mstouk57g的某些不可抗因素，RailGo-WinUI版本将会无限期暂时停更
 >
 > 恢复时间待定。如果有问题，可以使用uniapp版本。网页版的uniapp在[https://rail.ink/](https://rail.ink/)
+> 新版WinUI版本的RailGo由开发者@君之我所系 继续开发
 
 ![来自mstouk57g的亲笔告别书](https://github.com/user-attachments/assets/6a89afdd-3573-4f86-919c-b93538c9418d)
