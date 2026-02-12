@@ -6,6 +6,9 @@ _2026年新年特别更新_
 
 > [!NOTE]
 > 好耶，第一个正式Release
+> [!IMPORTANT]  
+> 本项目现已由新开发者 **君之我所系** 接手，继续维护与迭代。  
+> 后续更新与技术支持请关注新仓库动态，感谢大家的支持与理解！
 
 ### ✨Feature
 
@@ -18,11 +21,12 @@ _2026年新年特别更新_
 - 第一个正式Release，没有挂Beta标的
 
 ---
+> [!TIP]
+> 如有 Bug 或需要帮助，欢迎加入 QQ 群 **652032716** 反馈交流。
 
 > [!WARNING]
 > 由于WinUI版本开发者@mstouk57g的某些不可抗因素，RailGo-WinUI版本将会无限期暂时停更
 >
 > 恢复时间待定。如果有问题，可以使用uniapp版本。网页版的uniapp在[https://rail.ink/](https://rail.ink/)
-> 新版WinUI版本的RailGo由开发者@君之我所系 继续开发
 
 ![来自mstouk57g的亲笔告别书](https://github.com/user-attachments/assets/6a89afdd-3573-4f86-919c-b93538c9418d)
